@@ -1,0 +1,7 @@
+﻿  Figures.cpp
+  Figures.h
+  Создание кода...
+x64\Debug\Figures.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+     Создается библиотека C:\Users\ostap\Programs\Testovoe\Figures\x64\Debug\Figures.lib и объект C:\Users\ostap\Programs\Testovoe\Figures\x64\Debug\Figures.exp
+  Figures.vcxproj -> C:\Users\ostap\Programs\Testovoe\Figures\x64\Debug\Figures.dll
+  ╤ъюяшЁютрэю Їрщыют: 0.
